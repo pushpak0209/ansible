@@ -225,6 +225,8 @@ value::
 
    :ref:`working_with_playbooks`
        Learn what playbooks can do and how to write/run them.
+        `YAML Converter <https://yamlonline.com/>`_
+       YAML Beautify, YAML Minify,Convert YAML to JSON ,Convert YAML To XML, Convert YAML to CSV and Convert YAML to Base64, Download file after converter.
    `YAMLLint <http://yamllint.com/>`_
        YAML Lint (online) helps you debug YAML syntax if you are having problems
    `GitHub examples directory <https://github.com/ansible/ansible-examples>`_
